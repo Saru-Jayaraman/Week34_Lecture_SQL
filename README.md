@@ -1,0 +1,1 @@
+Link to lecture done by teacher: https://github.com/mehrdad-javan/G51_Lecture_SQL
